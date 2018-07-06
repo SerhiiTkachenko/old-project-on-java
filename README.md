@@ -1,2 +1,4 @@
-# old-project-on-java
-It`s simple Internet Shop
+
+### It's simple Internet Shop
+
+ **Internet shop, developed with Java EE,JPA(Hibernate), Spring, Maven  :alien:**
